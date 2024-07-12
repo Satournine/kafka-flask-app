@@ -20,7 +20,7 @@ This project integrates a web scraper with Kafka and Flask. The scraper collects
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/kafka-flask-app.git
+   git clone https://github.com/Satournine/kafka-flask-app.git
    cd kafka-flask-app
 
 3. Build and start the Docker containers:
