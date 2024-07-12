@@ -19,13 +19,15 @@ This project integrates a web scraper with Kafka and Flask. The scraper collects
 ### Installation
 
 1. Clone the repository:
+   ```sh
    git clone https://github.com/your-username/kafka-flask-app.git
    cd kafka-flask-app
 
-2. Build and start the Docker containers:
+3. Build and start the Docker containers:
+   ```sh
    docker-compose build
    docker-compose up
 
-3. Access the Flask application at:
-
-  http://localhost:5000
+5. Access the Flask application at:
+   ```sh
+     http://localhost:5000
